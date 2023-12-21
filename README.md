@@ -7,7 +7,12 @@
 
 =======
 # Add Test from master
+<<<<<<< HEAD
 >>>>>>> b7cd35a (modify README from master)
+=======
+# modify from branch-a
+
+>>>>>>> 42a762e (modify readme from branch-a)
    ```python
    
    {
